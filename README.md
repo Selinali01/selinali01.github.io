@@ -1,4 +1,6 @@
 # al-folio
+# bundle exec jekyll serve
+# http://localhost:4000
 
 <div align="center">
 
