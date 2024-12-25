@@ -15,7 +15,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hi! My name is Selina. I am currently a Masters student at Cornell Tech, pursuing my MEng in Computer Science. Previously, I graduated from the University of Pennsylvania, where I received my B.A. in Economics, and minors in Data Science and Statistics. I worked as a Quant Researcher at J.P. Morgan for a year before pursuing my masters. 
+Hi! My name is Selina. I am currently a Masters student at `Cornell Tech`, pursuing my MEng in Computer Science. Previously, I graduated from the `University of Pennsylvania`, where I received my B.A. in Economics, and minors in Data Science and Statistics. I worked as a Quant Researcher at J.P. Morgan for a year before pursuing my masters. 
 <br>
 
 I am also a competitive golfer, representing
@@ -23,8 +23,4 @@ I am also a competitive golfer, representing
             captained the  <a href="https://pennathletics.com/sports/womens-golf/roster/selina-li/19872"> UPenn Women's Golf Team (NCAA Division I) </a>. 
             <br>
 
-
-
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
